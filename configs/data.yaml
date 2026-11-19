@@ -1,0 +1,9 @@
+
+# Dataset and candidate-generation settings.
+# Coordinates are projected independently for each trip.
+
+candidate_k: 10
+candidate_radius_m: 100
+
+# Process all available training trips.
+candidate_trip_limit: null
